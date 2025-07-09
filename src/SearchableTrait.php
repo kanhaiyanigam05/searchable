@@ -1,4 +1,4 @@
-<?php namespace Nicolaslopezj\Searchable;
+<?php namespace Kanhaiyanigam05\Searchable;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Support\Arr;
